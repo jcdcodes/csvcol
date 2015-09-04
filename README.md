@@ -97,3 +97,7 @@ python csvcol.py slightlywrong.csv Name,Age,Height,HighScore > right.csv
   be amazed at how instantaneously you can see what columns are in the
   csv file.  There's probably a Windows equivalent, but I don't know
   what it would be.
+
+# License
+
+MIT --- See LICENSE.
