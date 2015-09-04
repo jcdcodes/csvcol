@@ -18,7 +18,7 @@ http://python.org and install as appropriate.  You need to be able to
 successfully say `python` from a command prompt.  (The tutorial
 installation instructions at
 [https://docs.python.org/2/tutorial/interpreter.html](https://docs.python.org/2/tutorial/interpreter.html)
-show you how to add `python` to `path` environment variable.)
+show you how to add `python` to the `path` environment variable.)
 
 # Example
 
